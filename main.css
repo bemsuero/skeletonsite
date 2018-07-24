@@ -1,0 +1,70 @@
+#main {
+  padding: 5%;
+  width: 85%;
+  grid-gap: 5%;
+}
+
+#main h2 {
+    text-align: center;
+}
+
+#info-grid {
+  text-align: center;
+  margin-top: 3%;
+}
+
+#img-grid img {
+width: 100%;
+}
+
+.column {
+  max-width: 50%;
+}
+
+.lead {
+  line-height: 1.5;
+  font-size: 1.12em;
+}
+
+.title {
+  font-size: 4vh;
+  text-align: center;
+}
+
+.form-container {
+  background-color: rgb(51,51,51, 0.8);
+  color: white;
+}
+
+.form-container {
+  border-radius: 10px;
+}
+
+.form-container label {
+  display: block;
+  padding-bottom: 3%;
+  color: white;
+  padding: 7px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+.form-container .btn {
+  border-radius: 10px;
+  background-color: green;
+  color: #fff;
+  border: 1px solid green;
+  padding: 10px;
+}
+
+.form-container .btn:hover {
+  background-color: rgb(8,171,5);
+}
+
+section {
+  margin-bottom: 5%;
+}
+
+.info-header h3 {
+  text-align: center;
+}
